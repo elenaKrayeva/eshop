@@ -1,0 +1,25 @@
+/* Navbar */
+.navbar-nav a {
+  font-size: 18px;
+}
+
+.bg-mine {
+  object-fit: cover;
+}
+
+/*Card*/
+
+.card-cust {
+  transition: all 0.5s ease;
+}
+.card-cust:hover {
+  transform: scale(1.05);
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+}
+
+.img-prod img {
+  transition: all 0.5s ease;
+}
+.img-prod img:hover {
+  transform: scale(1.1);
+}
